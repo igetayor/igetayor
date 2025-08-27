@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Hi there 
 # Hi 👋, I'm Temitayo Adeyinka Ige 
 
 Welcome to my GitHub profile! I am a **Fullstack Developer** with over **10 years of experience** designing and building innovative, scalable, and cloud-ready applications. My work focuses on delivering impactful solutions by blending strong technical skills with a solid understanding of business needs.
