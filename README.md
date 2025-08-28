@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi 👋, I'm Temitayo Adeyinka Ige 
+🚀 Hi 👋, I'm Temitayo Adeyinka Ige 
 
 Welcome to my GitHub profile! I am a **Fullstack Developer** with over **10 years of experience** designing and building innovative, scalable, and cloud-ready applications. My work focuses on delivering impactful solutions by blending strong technical skills with a solid understanding of business needs.
 
@@ -39,7 +39,7 @@ Welcome to my GitHub profile! I am a **Fullstack Developer** with over **10 year
 
 ---
 
-## � About Me
+## 🚀 About Me
 
 * **Fullstack Expertise:** Proficient in **React, Angular, Node.js, Nest.js, TypeScript, Java, Spring Boot, Spring Framework,** and **JPA/Hibernate**, delivering robust web and mobile experiences.
 * **Cloud Architectures:** Experienced in building distributed systems with **AWS (CDK, Lambda, API Gateway, DynamoDB, SNS, SQS, S3, EventBridge, VPC)**. **GCP (PubSub, Cloud Run, Cloud Funtions, Firestore)** and other cloud-native technologies.
@@ -51,7 +51,7 @@ Welcome to my GitHub profile! I am a **Fullstack Developer** with over **10 year
 
 ---
 
-## �� Featured Interests
+## 🌟 Featured Interests
 
 * **Monorepos & Modular Architectures**: Building microservices and enterprise systems with **NestJS** and **Spring Boot**.
 * **Modern Frontend**: Using **Tailwind CSS**, **Vite**, and **Electron + React**.
@@ -61,7 +61,7 @@ Welcome to my GitHub profile! I am a **Fullstack Developer** with over **10 year
 
 ---
 
-## ��� Projects and Highlights
+## 🏆 Projects and Highlights
 
 * **Enterprise Node.js Apps**: Robust systems using **Nestjs framework**, **Nodejs express**, and **REST APIs**.
 * **Enterprise Java Apps**: Robust systems using **Spring Boot**, **Spring Data JPA**, and **REST APIs**.
@@ -69,13 +69,13 @@ Welcome to my GitHub profile! I am a **Fullstack Developer** with over **10 year
 
 ---
 
-## �� GitHub Stats
+## 📊 GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LekeOmotayo&layout=compact&theme=radical)
 
 ---
 
-## �� Connect With Me
+## 📫 Connect With Me
 
 * **Email**: [igetayor@gmail.com](mailto::igetayor@gmail.com)
 
